@@ -1,0 +1,1 @@
+db.properties:配置数据源，配置完数据源后可以在此基础上配置SqlSessionFactory对象

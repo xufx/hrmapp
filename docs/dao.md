@@ -1,0 +1,3 @@
+mybatis持久化层DAO接口只需要通过SqlSession的getMapper方法获得对应的接口实例
+Spring容器负责生成并管理DAO组件
+DAO操作：单条数据记录的操作，数据访问逻辑
